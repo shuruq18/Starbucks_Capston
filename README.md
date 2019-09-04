@@ -1,5 +1,5 @@
 # Starbucks_Capston
-# Data Scientist Nanodegree
+# DS Nanodegree
 
 
 --------
